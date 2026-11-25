@@ -1,0 +1,5 @@
+# The repository currently contains no application code (only README.md and
+# .gitignore), so there is no framework, dependency install, or build step.
+# The repository root is published as-is as a static site.
+[build]
+  publish = "."
